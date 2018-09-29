@@ -1,5 +1,5 @@
 name:
-   first: Anhad
-   last: Mohananey
-email: anhad@nyu.edu
-leaderboard: Baseline
+   first: Sachin
+   last: Shastri
+email: sds662@nyu.edu
+leaderboard: sachinsurfs
